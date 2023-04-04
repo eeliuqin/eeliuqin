@@ -6,17 +6,16 @@ Hi, I'm Qin Liu 👋
 * 😄 My pronouns are: She/Her/Hers
 * 📍 I'm based in California 
 * 📧 You can contact me at [eeliuqin@gmail.com](mailto:eeliuqin@gmail.com)
-* 👩🏻‍💻 I'm currently working on creating a machine learning web app for [Predicting Osteoporosis](http://github.com/eeliuqin/Osteoporosis-Analysis-and-Prediction-on-NHANES-Data)
+* 👩🏻‍💻 I'm currently working on data analysis for [MIMIC-IV](https://mimic.mit.edu/docs/about/)
 * 🌱 I'm learning
 	- Azure Cloud (Already worked with AWS & GCP)
-	- Microsoft Power BI (Already worked with Tableau)
 * 🏅 My Certifications and Courses
-	- Biostatistics in Public Health by Johns Hopkins University (2023)
-	- Health Information Literacy for Data Analytics by University of California, Davis (2023)
-	- AWS Certified Cloud Practitioner (2022)
-	- Tableau Desktop Specialist (2022)
-	- Machine Learning Specialization (2022)
-	- Google Data Analytics (2022)
+	- Biostatistics in Public Health by Johns Hopkins University (2023, Coursera)
+	- Health Information Literacy for Data Analytics by University of California, Davis (2023, Coursera)
+	- AWS Certified Cloud Practitioner (2022, AWS)
+	- Tableau Desktop Specialist (2022, Tableau)
+	- Machine Learning Specialization (2022, Coursera)
+	- Google Data Analytics (2022, Coursera)
 
 ### Skills
 
