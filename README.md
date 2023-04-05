@@ -20,42 +20,16 @@ Hi, I'm Qin Liu 👋
 
 ### Languages 
 
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a> 
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Services 
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
-  </a> 
-</p>
+### Services
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### Databases
 
