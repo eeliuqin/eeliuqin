@@ -6,16 +6,16 @@ Hi, I'm Qin Liu 👋
 * 😄 My pronouns are: She/Her/Hers
 * 📍 I'm based in California 
 * 📧 You can contact me at [eeliuqin@gmail.com](mailto:eeliuqin@gmail.com)
-* 👩🏻‍💻 I'm currently working on data analysis for [MIMIC-IV](https://mimic.mit.edu/docs/about/)
+* 👩🏻‍💻 I'm currently working [MIMIC-IV](https://mimic.mit.edu/docs/about/) data analysis
 * 🌱 I'm learning
 	- Azure Cloud (Already worked with AWS & GCP)
 * 🏅 My Certifications and Courses
-	- Biostatistics in Public Health by Johns Hopkins University (2023, Coursera)
-	- Health Information Literacy for Data Analytics by University of California, Davis (2023, Coursera)
-	- AWS Certified Cloud Practitioner (2022, AWS)
-	- Tableau Desktop Specialist (2022, Tableau)
-	- Machine Learning Specialization (2022, Coursera)
-	- Google Data Analytics (2022, Coursera)
+	- Biostatistics in Public Health by Johns Hopkins University (2023, [Certificate](https://www.coursera.org/account/accomplishments/specialization/G4HMZ5JDHR5T))
+	- Health Information Literacy for Data Analytics by University of California, Davis (2023, [Certificate](https://www.coursera.org/account/accomplishments/specialization/FGS9GJQRBHEZ))
+	- AWS Certified Cloud Practitioner (2022, [Certificate](https://www.credly.com/badges/d9418f29-3cd8-42b0-a2bd-3b7e602a5319/public_url))
+	- Tableau Desktop Specialist (2022, [Certificate](https://www.credly.com/badges/e16bdb47-fc46-40f3-ada5-0b8362c0e08b))
+	- Machine Learning Specialization (2022, [Certificate](https://www.coursera.org/account/accomplishments/specialization/2C9Z6Y2FN4A3))
+	- Google Data Analytics (2022, [Certificate](https://www.credly.com/badges/6a815a1d-1c31-4dde-a65b-3899e20a98a8))
 
 ### Skills
 
