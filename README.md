@@ -6,7 +6,7 @@ Hi, I'm Qin Liu 👋
 * 😄 My pronouns are: She/Her/Hers
 * 📍 I'm based in California 
 * 📧 You can contact me at [eeliuqin@gmail.com](mailto:eeliuqin@gmail.com)
-* 👩🏻‍💻 I'm currently working [MIMIC-IV](https://mimic.mit.edu/docs/about/) data analysis
+* 👩🏻‍💻 I'm currently working on analyzing [MIMIC-IV data](https://mimic.mit.edu/docs/iv/tutorials/bigquery/) using Google BigQuery
 * 🌱 I'm learning
 	- Azure Cloud (Already worked with AWS & GCP)
 * 🏅 My Certifications and Courses
