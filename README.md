@@ -2,7 +2,7 @@ Hi, I'm Qin Liu 👋
 
 ## Thanks for stopping by. Here's a little bit about myself...
 
-* 💻 I'm a Data Analyst with experience in Software Development
+* 💻 I'm a software developer with a strong analytics background and a passion for data science, machine learning, and data analytics
 * 😄 My pronouns are: She/Her/Hers
 * 📍 I'm based in California 
 * 📧 You can contact me at [eeliuqin@gmail.com](mailto:eeliuqin@gmail.com)
@@ -28,7 +28,7 @@ Hi, I'm Qin Liu 👋
 ### Services
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 ### Databases
