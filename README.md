@@ -6,10 +6,10 @@ Hi, I'm Qin Liu 👋
 * 😄 My pronouns are: She/Her/Hers
 * 📍 I'm based in California 
 * 📧 You can contact me at [eeliuqin@gmail.com](mailto:eeliuqin@gmail.com)
-* 👩🏻‍💻 I'm currently working on analyzing [MIMIC-IV data](https://mimic.mit.edu/docs/iv/tutorials/bigquery/) using Google BigQuery
 * 🌱 I'm learning
-	- Azure Cloud (Already worked with AWS & GCP)
+	- Azure Databricks
 * 🏅 My Certifications and Courses
+	- AWS Certified Machine Learning Specialty (2023, [Certificate](https://www.credly.com/badges/8146006b-88f1-4e38-a2ac-c24448149899/public_url))
 	- Biostatistics in Public Health by Johns Hopkins University (2023, [Certificate](https://www.coursera.org/account/accomplishments/specialization/G4HMZ5JDHR5T))
 	- Health Information Literacy for Data Analytics by University of California, Davis (2023, [Certificate](https://www.coursera.org/account/accomplishments/specialization/FGS9GJQRBHEZ))
 	- AWS Certified Cloud Practitioner (2022, [Certificate](https://www.credly.com/badges/d9418f29-3cd8-42b0-a2bd-3b7e602a5319/public_url))
