@@ -7,7 +7,7 @@ Hi, I'm Qin Liu 👋
 * 📍 I'm based in California 
 * 📧 You can contact me at [eeliuqin@gmail.com](mailto:eeliuqin@gmail.com)
 * 🌱 I'm learning
-	- Azure Databricks
+	- MLOps
 * 🏅 My Certifications and Courses
 	- AWS Certified Machine Learning Specialty (2023, [Certificate](https://www.credly.com/badges/8146006b-88f1-4e38-a2ac-c24448149899/public_url))
 	- Biostatistics in Public Health by Johns Hopkins University (2023, [Certificate](https://www.coursera.org/account/accomplishments/specialization/G4HMZ5JDHR5T))
