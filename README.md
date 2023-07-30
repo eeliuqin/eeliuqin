@@ -2,7 +2,7 @@ Hi, I'm Qin Liu 👋
 
 ## Thanks for stopping by. Here's a little bit about myself...
 
-* 💻 I'm a software developer with a strong analytics background and a passion for data science, machine learning, and data analytics
+* 💻 I'm a software engineer with a strong analytical background and a passion for data science, machine learning, and data analytics
 * 😄 My pronouns are: She/Her/Hers
 * 📍 I'm based in California 
 * 📧 You can contact me at [eeliuqin@gmail.com](mailto:eeliuqin@gmail.com)
